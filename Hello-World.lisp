@@ -1,0 +1,3 @@
+; Lisp
+
+(print "Hello World")
